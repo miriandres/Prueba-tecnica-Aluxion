@@ -78,13 +78,3 @@ body{
     -moz-osx-font-smoothing: grayscale; 
     overflow: hidden;
 }
-
-
-
-.wrapper{
-    width: 90%;
-    max-width: 1440px;
-    height: 100%;
-    margin: 0 auto;
-    @include flex(row, nowrap, space-between, center);
-}
