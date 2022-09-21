@@ -21,9 +21,10 @@
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 
 ## Construido con 🛠️
-* HTML5
-* SASS
-* VanillaJS
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/static/v1?label=&message=Vanilla%20JavaScript&color=f7df1e&logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com/)
+[![BEM Methodology](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)](http://getbem.com/)
   
 ## Contratación
 Si quieres contratarme puedes escribirme a hello@miriamandres.com para consultas.
