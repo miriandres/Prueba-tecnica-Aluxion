@@ -1,10 +1,10 @@
-## Descripción 🏝
+## Prueba técnica Aluxion
+
+<img width="1552" alt="Social preview Aluxion" title="Prueba técnica Aluxion" src="/design/social-preview.jpg" />
 
 <div align="center">
   
-  Prueba técnica de Maquetador Junior para el módulo de Javascript, jQuery y Angular en Trazos. Creación from scratch de una página de muebles. El objetivo es plantear una estructura web que se adapte a distintas dimensiones de pantalla, atendiendo a los detalles como las animaciones y lo más semejante posible al diseño proporcionado. La duración de la prueba es de un máximo de 3 días. Se entrega un documento con las pautas a seguir para realizar el ejercicio, una carpeta adjunta con un vídeo como ejemplo visual y una de recursos con las imágenes a utilizar. No hay un diseño definido para el Responsive.
-
-  Maquetada en SASS con metodología BEM y realizada en Visual Studio. 
+  Prueba técnica de Maquetador Junior para el módulo de JavaScript, jQuery y Angular en Trazos. Creación from scratch de una página de muebles. El objetivo es plantear una estructura web que se adapte a distintas dimensiones de pantalla, atendiendo a los detalles como las animaciones y lo más semejante posible al diseño proporcionado. La duración de la prueba es de un máximo de 3 días. Se entrega un documento con las pautas a seguir para realizar el ejercicio, una carpeta adjunta con un vídeo como ejemplo visual y una de recursos con las imágenes a utilizar. No hay un diseño definido para el Responsive.
 
   [![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=000000&style=for-the-badge)](https://miriandres.github.io/Prueba-tecnica-Aluxion/)
   [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/miriandres/Prueba-tecnica-Aluxion)
