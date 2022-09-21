@@ -5,7 +5,8 @@ Prueba técnica de Maquetador Junior para el módulo de Javascript, jQuery y Ang
 Maquetada en SASS con metodología BEM y realizada en Visual Studio. 
 
 ## Autor ✒️
-**Miriam Andrés** - *Documentación y trabajo inicial*
+**Miriam Andrés** - *Documentación y código*
+* [Website](https://miriamandres.com)
 * [Github](https://github.com/miriandres)
 * [LinkedIn](www.linkedin.com/in/miriamandresdev)
 
